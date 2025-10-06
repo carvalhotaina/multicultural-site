@@ -1,0 +1,98 @@
+{
+  "feed": [
+    {
+      "id": "v1",
+      "title": "Um dia na plantação — Rituais e Sustento",
+      "creator": "Asha (Índia)",
+      "theme": "sustentabilidade",
+      "duration": "6:12",
+      "video": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "poster": "",
+      "description": "A rotina de Asha na plantação e como pequenas escolhas sustentáveis transformaram a comunidade."
+    },
+    {
+      "id": "v2",
+      "title": "Ensinar além da sala — Educação no Senegal",
+      "creator": "Ibrahim (Senegal)",
+      "theme": "educação",
+      "duration": "4:50",
+      "video": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "poster": "",
+      "description": "Ibrahim mostra técnicas que usa para manter crianças engajadas em contextos adversos."
+    },
+    {
+      "id": "v3",
+      "title": "Festas e Memórias — Celebrações locais",
+      "creator": "María (Peru)",
+      "theme": "celebrações",
+      "duration": "5:30",
+      "video": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "poster": "",
+      "description": "María convida para uma festa onde tradições antigas ganham novo sentido."
+    }
+  ],
+  "profiles": [
+    {
+      "id": 1,
+      "name": "Asha",
+      "location": "Índia",
+      "bio": "Agricultora e curadora de sementes locais.",
+      "decisions": [
+        {
+          "text": "Continuar práticas tradicionais",
+          "impact": "sustentabilidade",
+          "desc": "Permaneceu com técnicas ancestrais; produção comunitária."
+        },
+        {
+          "text": "Adotar fertilizante moderno",
+          "impact": "produtividade",
+          "desc": "Aumento de rendimento, mas perda de biodiversidade."
+        },
+        {
+          "text": "Iniciar cooperativa",
+          "impact": "comunidade",
+          "desc": "Compartilhamento de recursos e mercado."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ibrahim",
+      "location": "Senegal",
+      "bio": "Professor e promotor de educação fora da escola.",
+      "decisions": [
+        {
+          "text": "Apostar em aulas ao ar livre",
+          "impact": "engajamento",
+          "desc": "Crianças participam mais de atividades práticas."
+        },
+        {
+          "text": "Buscar apoio de ONG",
+          "impact": "recursos",
+          "desc": "Mais material e formação, mas dependência externa."
+        },
+        {
+          "text": "Formar rede de professores locais",
+          "impact": "sustentabilidade",
+          "desc": "Troca de práticas e capacitação contínua."
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "e1",
+      "title": "Mutirão de Horta Comunitária",
+      "date": "2025-10-18",
+      "location": "Centro Cultural",
+      "description": "Plantar e aprender técnicas agroecológicas."
+    },
+    {
+      "id": "e2",
+      "title": "Oficina: Narrativas e Som",
+      "date": "2025-11-02",
+      "location": "Biblioteca Municipal",
+      "description": "Aprenda a registrar histórias orais."
+    }
+  ]
+}
